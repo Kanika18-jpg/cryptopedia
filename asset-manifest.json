@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptopedia/static/css/main.1a9a7a29.css",
+    "main.js": "/cryptopedia/static/js/main.cf191b83.js",
+    "index.html": "/cryptopedia/index.html",
+    "main.1a9a7a29.css.map": "/cryptopedia/static/css/main.1a9a7a29.css.map",
+    "main.cf191b83.js.map": "/cryptopedia/static/js/main.cf191b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.cf191b83.js"
+  ]
+}
